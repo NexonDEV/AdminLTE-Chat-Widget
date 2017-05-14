@@ -1,0 +1,9 @@
+Nie zewalam na:
+- Podszywanie sie pod autora
+- Zarabianie na skrypcie
+- Tworzenie klonow skryptu
+- Usuwanie informacji o autorze i skrypcie oraz ich modyfikacje
+
+Zezwalam na:
+- Umieszczanie skryptu na stronach
+- Drobne zmiany w kodzie HTML w celu poprawienia wygladu
